@@ -18,17 +18,17 @@ I want to scrape only these cards but not directly to individual card
 ## 3. Expected outcome
 spreadsheet or .csv file
 
-## Work Flow
+## 4. Work Flow
 ![work_flow_img](https://github.com/Pisit-Janthawee/Web-Scraping-DrugBank-Selenium/assets/133638243/e3c8dcb8-e9ba-49ee-a58d-c0ee43e311f7)
 
-## 4. Tool
+## 5. Tool
 - Python
 - BeautifulSoup
 - Selenium 
 - Requests
 - Pandas
 
-## 5. File Description
+## 6. File Description
 
 ### Folder
 
