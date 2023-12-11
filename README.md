@@ -21,14 +21,14 @@ spreadsheet or .csv file
 ## Work Flow
 ![work_flow_img](https://github.com/Pisit-Janthawee/Web-Scraping-DrugBank-Selenium/assets/133638243/e3c8dcb8-e9ba-49ee-a58d-c0ee43e311f7)
 
-## Tool
+## 4. Tool
 - Python
 - BeautifulSoup
 - Selenium 
 - Requests
 - Pandas
 
-## File Description
+## 5. File Description
 
 ### Folder
 
